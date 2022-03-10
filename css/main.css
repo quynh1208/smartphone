@@ -392,3 +392,13 @@ body {
     border-radius: 4px;
     box-shadow: 10px 10px 8px #888888;
 }
+
+.money {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.register {
+    display: none;
+}
